@@ -6,8 +6,9 @@
 
 Dans le cadre d'un projet académique, réalisation d'une application desktop permettant la gestion d'une bibliothèque.
 
-Java, Swing, Mysql
-
+       * Java
+       * Swing
+       * Mysql
 
 
 
